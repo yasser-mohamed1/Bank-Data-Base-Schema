@@ -1,0 +1,19 @@
+
+
+    A Bank can have multiple Branches, but a Branch belongs to only one Bank. This is a one-to-many relationship between Bank and Branch.
+
+    A Branch can have multiple Employees, but an Employee belongs to only one Branch. This is a one-to-many relationship between Branch and Employee.
+
+    A Bank can have multiple Employees, but an Employee works for only one Bank. This is a one-to-many relationship between Bank and Employee.
+
+    An Employee can have at most one Manager, but a Manager can have multiple Employees. This is a self-referencing one-to-many relationship within the Employee table.
+
+    A Branch can have multiple Customers, but a Customer belongs to only one Branch. This is a one-to-many relationship between Branch and Customer.
+
+    A Customer can have multiple Accounts, but an Account belongs to only one Customer. This is a one-to-many relationship between Customer and Account.
+
+    An Account can have multiple Transactions, but a Transaction belongs to only one Account. This is a one-to-many relationship between Account and Transaction.
+
+    An Account can have at most one Loan, but a Loan belongs to only one Account. This is a one-to-one relationship between Account and Loan.
+
+    A Customer can have multiple Email addresses, and an Email address can belong to multiple Customers. This is a many-to-many relationship between Customer and Email.
