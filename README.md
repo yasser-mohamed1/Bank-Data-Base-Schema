@@ -21,6 +21,10 @@ Database Schema
 
 The relationships between these tables are described in detail in the database documentation.
 
+# ERD
+
+!["ERD"](https://github.com/[yasser-mohamed1]/[Bank-Data-Base-Schema]/blob/[branch]/erd.png?raw=true)
+
 # Contributing
 
 If you would like to contribute to the Bank Database, please fork the repository and submit a pull request. All contributions are welcome, including bug fixes, new features, and improvements to the documentation.
