@@ -25,6 +25,10 @@ The relationships between these tables are described in detail in the database d
 
 ![Bank ERD image](ERD/erd.jpg)
 
+# Mapping
+
+![Bank Mapping image](Mapping/mapping.jpg)
+
 # Contributing
 
 If you would like to contribute to the Bank Database, please fork the repository and submit a pull request. All contributions are welcome, including bug fixes, new features, and improvements to the documentation.
