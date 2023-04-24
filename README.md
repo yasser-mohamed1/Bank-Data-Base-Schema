@@ -23,7 +23,7 @@ The relationships between these tables are described in detail in the database d
 
 # ERD
 
-!["ERD"](https://github.com/[yasser-mohamed1]/[Bank-Data-Base-Schema]/blob/[branch]/erd.png?raw=true)
+![Bank ERD image](ERD/erd.jpg)
 
 # Contributing
 
