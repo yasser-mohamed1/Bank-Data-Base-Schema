@@ -281,4 +281,4 @@ FROM Customer c
 JOIN Account a ON c.CustomerID = a.CustomerID
 JOIN Loan l ON a.AccountID = l.AccountID;
 
-------------> THE END <------------
+------------> not completed the queries <------------
