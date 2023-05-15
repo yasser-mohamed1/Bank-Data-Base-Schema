@@ -23,7 +23,7 @@ The relationships between these tables are described in detail in the database d
 
 # ERD
 
-![Bank ERD image](ERD/erd.jpg)
+![Bank ERD image](ERD/erd.drawio.png)
 
 # Mapping
 
